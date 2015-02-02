@@ -1,6 +1,8 @@
 JavaBuzz 
 ========
 
+[![Code Climate](https://codeclimate.com/github/nickbdyer/javabuzz/badges/gpa.svg)](https://codeclimate.com/github/nickbdyer/javabuzz)
+
 Week 5 at Makers Academy
 ------------------------
 
